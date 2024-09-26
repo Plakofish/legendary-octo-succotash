@@ -1,4 +1,4 @@
-# legendary-octo-succotash
+UpArrow# legendary-octo-succotash
 Number row characters:
 - !(Exclaimation Point)
 - @( At Symbol)
@@ -16,3 +16,12 @@ Number row characters:
 - [Steam](https://store.steampowered.com/)
 ### Experiments
 😧:desert: :camera: 
+## Shortcuts I Use
+- Alt + Tab
+- Ctrl + Alt + Del
+- Ctrl + S
+## Shortcuts I would like to use more
+- Win + D
+- Ctrl + X
+- Win + UpArrow
+
