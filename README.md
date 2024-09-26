@@ -15,7 +15,7 @@ Number row characters:
 - [GPT](https://openai.com/chatgpt/)
 - [Steam](https://store.steampowered.com/)
 ### Experiments
-😧:desert: :camera: 
+😧 :desert: :camera: 
 ## Shortcuts I Use
 - Alt + Tab
 - Ctrl + Alt + Del
