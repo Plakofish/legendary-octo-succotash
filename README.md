@@ -1,4 +1,4 @@
-# legendary-octo-succotash
+# Datamgmt
 Number row characters:
 - !(Exclaimation Point)
 - @( At Symbol)
@@ -24,4 +24,6 @@ Number row characters:
 - Win + D
 - Ctrl + X
 - Win + UpArrow
+##
+[CLI commands](docs/cli.md)
 
