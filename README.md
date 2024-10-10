@@ -25,5 +25,5 @@ Number row characters:
 - Ctrl + X
 - Win + UpArrow
 ##
-[CLI commands](docs/cli.md)
+[CLI commands](docs/cli.md):) 
 
